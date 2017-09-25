@@ -1,6 +1,6 @@
-##Project Specification
+## Project Specification
 
-#Article to Mockup
+# Article to Mockup
 
 Goal : Matching the Mockup
 
