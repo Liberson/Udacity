@@ -1,6 +1,6 @@
-## Project Specification
+# Project Specification
 
-# Article to Mockup
+## Article to Mockup
 
 Goal : Matching the Mockup
 
@@ -17,7 +17,7 @@ Criteria :
 
     The image’s source is the correct URL and the link in the article is correct.
 
-# Reflections
+## Reflections
 
 The reflection answers at least three of the four questions:
 
